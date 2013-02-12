@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"FileDiffs",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"WordHighlight"
+	]
+}

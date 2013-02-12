@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"detect_slow_plugins": false,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"rulers":
+	[
+		120
+	],
+	"spell_check": true,
+	"theme": "Soda Dark.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"open_files_in_new_window": false,
+	"show_full_path": true
+}
