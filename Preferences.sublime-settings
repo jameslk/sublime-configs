@@ -9,13 +9,13 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"open_files_in_new_window": false,
 	"rulers":
 	[
 		120
 	],
+	"show_full_path": true,
 	"spell_check": true,
 	"theme": "Soda Dark.sublime-theme",
-	"vintage_start_in_command_mode": true,
-	"open_files_in_new_window": false,
-	"show_full_path": true
+	"vintage_start_in_command_mode": true
 }

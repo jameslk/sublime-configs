@@ -2,11 +2,12 @@
 	"installed_packages":
 	[
 		"BracketHighlighter",
+		"Emmet",
 		"FileDiffs",
 		"Package Control",
-		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda",
+		"Vintage Numbers",
 		"WordHighlight"
 	]
 }
