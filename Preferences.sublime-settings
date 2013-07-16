@@ -1,8 +1,8 @@
 {
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
-	"detect_slow_plugins": false,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"ignored_packages":
 	[
+		"Vintageous"
 	],
 	"indent_guide_options":
 	[
@@ -16,6 +16,7 @@
 	],
 	"show_full_path": true,
 	"spell_check": true,
-	"theme": "Soda Dark.sublime-theme",
-	"vintage_start_in_command_mode": true
+	"theme": "Soda Dark 3.sublime-theme",
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
 }

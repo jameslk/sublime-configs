@@ -1,11 +1,10 @@
 {
 	"installed_packages":
 	[
-		"BracketHighlighter",
 		"Emmet",
 		"FileDiffs",
+		"Monokai Extended",
 		"Package Control",
-		"SublimeLinter",
 		"Theme - Soda",
 		"Vintage Numbers",
 		"WordHighlight"
