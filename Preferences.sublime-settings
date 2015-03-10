@@ -16,7 +16,8 @@
 	],
 	"show_full_path": true,
 	"spell_check": true,
-	"theme": "Soda Dark 3.sublime-theme",
+	"theme": "Afterglow-blue.sublime-theme",
+	"tabs_medium": true,
 	"vintage_start_in_command_mode": true,
 	"word_wrap": false
 }

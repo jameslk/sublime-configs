@@ -1,11 +1,17 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Emmet",
+		"EncodingHelper",
 		"FileDiffs",
 		"Monokai Extended",
 		"Package Control",
+		"Sass",
+		"Theme - Afterglow",
 		"Theme - Soda",
 		"Vintage Numbers",
 		"WordHighlight"
