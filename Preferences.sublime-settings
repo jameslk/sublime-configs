@@ -16,8 +16,8 @@
 	],
 	"show_full_path": true,
 	"spell_check": true,
-	"theme": "Afterglow-blue.sublime-theme",
 	"tabs_medium": true,
+	"theme": "Afterglow-blue.sublime-theme",
 	"vintage_start_in_command_mode": true,
 	"word_wrap": false
 }
